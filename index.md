@@ -1,4 +1,4 @@
-## Welcome to my Github Landing Page
+## Welcome to my Github Landing Page!
 
 This is a work in progress, be sure to check back as things get updated.
 
