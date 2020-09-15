@@ -4,11 +4,11 @@ This is a work in progress, be sure to check back as things get updated.
 
 #### What I'm working on right now: 
 
-Degree: M.S. Statistics at Oregon State University
+M.S. Statistics at Oregon State University
 
-Project: Analysis of Alaska Fisheries Science Center (AFSC) Resource and Conservation Engineering Division (RACE) Eastern Bering Sea Continental Shelf Survey Data
+Analysis of Alaska Fisheries Science Center (AFSC) Resource and Conservation Engineering Division (RACE) Eastern Bering Sea Continental Shelf Survey Data
 
-Internship: NOAA West Coast Region Protected Resources Divison Pathways Internship
+NOAA West Coast Region Protected Resources Divison Pathways Internship
 
 
 #### Some of the things I've been up to lately:
