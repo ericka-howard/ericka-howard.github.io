@@ -1,6 +1,6 @@
 ## Welcome to my Github Landing Page!
 
-![Yosemite NP in the Winter](images/tree.jpg)
+![Yosemite NP in the Winter](images/tree.JPG)
 
 This is a work in progress, be sure to check back as things get updated.
 
