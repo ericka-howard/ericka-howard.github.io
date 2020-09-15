@@ -1,5 +1,7 @@
 ## Welcome to my Github Landing Page!
 
+![Yosemite NP in the Winter](images/tree.jpg)
+
 This is a work in progress, be sure to check back as things get updated.
 
 #### What I'm working on right now: 
