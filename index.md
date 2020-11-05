@@ -17,4 +17,4 @@ NOAA West Coast Region Protected Resources Divison Pathways Internship
 
 [Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020](https://jimmylovestea.shinyapps.io/datadash/) - Won Honorable Mention!
 
-For more info check out my [LinkedIn](linkedin.com/in/erickabsmith)
+For more info check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/)
