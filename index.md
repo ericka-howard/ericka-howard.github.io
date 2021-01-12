@@ -1,7 +1,3 @@
-## Welcome to my Github Landing Page!
-
-My name is Ericka Smith and I'm a master's student in the Statistics Department at Oregon State University. I'm originally from the foothills of the Cascades in Washington state, and I completed my undergraduate degree at Western Washington University in Math/Biology. I spent quite a few years working in natural resources, culminating in a position where I worked as a GIS technician with spatial data, using remote sensing to identify water and land use change.
-
 ### What I'm working on right now: 
 
 * Tying up any loose ends before I graduate this March 2021!
