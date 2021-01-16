@@ -1,3 +1,7 @@
+### About Me
+
+I'm originally from the foothills of the Cascades in Washington State. I completed my undergraduate degree in Math/Biology nearby at Western Washington University. Immediately upon graduating I began working on the Bering Sea as a field biologist. I spent quite a few years traveling and working as a biologist, but have consistently found myself gravitating towards the statistical and data analysis aspects of these roles. This led to a position where I worked as a GIS technician analyzing spatial data and solving problems related to resource use. I determined it was time for me to return to school and pursue my more computational interests. 
+
 ### What I'm working on right now: 
 
 * Tying up any loose ends before I graduate this March 2021!
@@ -6,7 +10,7 @@
 
 ### Some of the things I've been up to lately:
 
-[Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020.](https://jimmylovestea.shinyapps.io/datadash/) - **We won Honorable Mention (2nd Place)!**
+[Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020.](https://jimmylovestea.shinyapps.io/datadash/) - **We won Honorable Mention (2nd Place) Nationwide!**
 
 [A Data Visualization Project using Shiny.](https://erickabsmith.shinyapps.io/catch-data/)
 
