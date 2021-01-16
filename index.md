@@ -23,3 +23,5 @@ A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVI
 [A project using parallel processing, Amazon EC2, and bootstrapping to estimate the probability of completing the Pacific Crest Trail](https://github.com/ST541-Fall2020/erickabsmith-project-trail)
 
 **For more info check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/)**
+
+![ ](images/mineral_king.JPG)
