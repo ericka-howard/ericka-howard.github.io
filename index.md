@@ -10,7 +10,7 @@ I'm originally from the foothills of the Cascades in Washington State. I complet
 
 ### Some of the things I've been up to lately:
 
-[Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020.](https://jimmylovestea.shinyapps.io/datadash/) - **We won Honorable Mention (2nd Place) Nationwide!**
+[Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020.](https://jimmylovestea.shinyapps.io/datadash/) - **We won Honorable Mention (2nd Place) nationwide!**
 
 [A Data Visualization Project using Shiny.](https://erickabsmith.shinyapps.io/catch-data/)
 
