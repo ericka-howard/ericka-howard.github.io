@@ -18,7 +18,7 @@ I'm originally from the foothills of the Cascades in Washington State. I complet
 
 Using R to automate processes during my NOAA West Coast Region Protected Resources Divison Pathways Internship.
 
-A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases.
+[A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases.](https://github.com/erickabsmith/generalized_regression_models)
 
 [A project using parallel processing, Amazon EC2, and bootstrapping to estimate the probability of completing the Pacific Crest Trail](https://github.com/ST541-Fall2020/erickabsmith-project-trail)
 
