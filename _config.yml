@@ -1,4 +1,12 @@
-theme: jekyll-theme-minimal
-title: Ericka B. Smith
+
+# Site Settings
+title: Ericka B. 
+email: smith.ericka.b@gmail.com
 logo: images/thumbnail.jpg
-description: Welcome! I'm a master's student in the Statistics Department at Oregon State University. My projected graduation is March 2021 and I'm currently looking for positions where I can use data to optimize processes and solve problems. 
+description: Welcome! I'm a student in the statistics master's program at Oregon
+State University. I graduate in March 2021 and I'm actively looking for data
+science roles that are remote or in Oregon. 
+github_username: erickabsmith
+
+# Build Settings
+theme: jekyll-theme-minimal
