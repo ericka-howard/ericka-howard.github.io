@@ -16,10 +16,9 @@ Moving forward I aim to integrate my prior expertise in science with my skills i
 * Teaching statistical concepts and R labs to undergraduate and graduate students. 
 
 
-### Some of my past work:
+### Some of my past projects:
 
 * [Group Project Work on the American Statistical Association Section on Statistics and the Environment ENVR Data Challenge 2020.](https://jimmylovestea.shinyapps.io/datadash/) - **We won Honorable Mention (2nd Place) nationwide!**
-* [A Data Visualization Project using Shiny.](https://erickabsmith.shinyapps.io/catch-data/)
 * [Analysis of Alaska Fisheries Science Center (AFSC) Resource and Conservation Engineering Division (RACE) Eastern Bering Sea Continental Shelf Survey Data.](https://github.com/erickabsmith/flatfish_2020)
 * [A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases.](https://github.com/erickabsmith/generalized_regression_models)
 * [A project using parallel processing, Amazon EC2, and bootstrapping to estimate the probability of completing the Pacific Crest Trail](https://github.com/ST541-Fall2020/erickabsmith-project-trail)
