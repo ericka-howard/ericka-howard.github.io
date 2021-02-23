@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Ericka and I'm a statistics master's student in Oregon, USA.
+My name is Ericka and here's a taste of my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 
 ### What I'm working on right now: 
 
@@ -16,11 +16,11 @@ My name is Ericka and I'm a statistics master's student in Oregon, USA.
 * Bootstrapping the Pacific Crest Trail in Parallel. [[GitHub]](https://github.com/ST541-Fall2020/erickabsmith-project-trail)
 * An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
 
-**For more info check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or email me at <smith.ericka.b@gmail.com>**
+
 
 ![Here's a photo of me fishing in Mineral King, CA. I love backpacking and it was quite the hike to get up here!](images/mineral_king.JPG)
 
-### A little about me:
+### A little about my story:
 
 Originally from the foothills of the Cascades in Washington State, I completed my undergraduate degree nearby at Western Washington University in math/biology. 
 
