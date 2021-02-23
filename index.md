@@ -22,8 +22,6 @@ My name is Ericka and here's a taste of my background and experience working wit
 
 ### A little about my story:
 
-Originally from the foothills of the Cascades in Washington State, I completed my undergraduate degree nearby at Western Washington University in math/biology. 
+Originally from the foothills of the Cascades in Washington State, I completed my undergraduate degree nearby at Western Washington University in math/biology. Between my undergraduate and graduate programs I traveled and worked as a field biologist. It was enjoyable, and I learned a lot about how data is collected and how statistical analysis results are used, but I was truly missing the computational analyses I got to do as an undergraduate student! I love digging around in data and seeing what I can learn.
 
-Between my undergraduate and graduate programs I traveled and worked as a field biologist. It was enjoyable, and I learned a lot about how data is collected and how statistical analysis results are used, but I was truly missing the computational analyses I got to do as an undergraduate student! I love digging around in data and seeing what I can learn.
-
-While applying for graduate school I began my transition back to the world of data working for a GIS firm that analyzes spatial data. Then I started in the statistics master's program at OSU the following Fall. It's been incredible to be back to coding and modeling and using my skills to answer find patterns in data and answer questions. I can't wait to get back into industry. Please reach out if you'd like to connect.
+While applying for graduate school I began my transition back to the world of data working for a GIS firm that analyzes spatial data. Then I started in the statistics master's program at OSU the following Fall. It's been incredible to be back to coding and modeling and using my skills to answer find patterns in data and answer questions. Looking forward to a return into industry! Please don't hesitate to contact me to connect.
