@@ -3,7 +3,7 @@
 ### What I'm working on right now: 
 
 * Looking for data science opportunities
-* Finishing my master's project: Local Climate Zone Classification in Mega Urban Areas using Satellite Imagery and Random Forests [GitHub](https://github.com/erickabsmith/masters-project-lcz-classification) 
+* Finishing my master's project: Local Climate Zone Classification in Mega Urban Areas using Satellite Imagery and Random Forests. [[GitHub]](https://github.com/erickabsmith/masters-project-lcz-classification) 
 * Teaching statistical concepts and R labs to undergraduate and graduate students. 
 
 ### Some of my past projects:
