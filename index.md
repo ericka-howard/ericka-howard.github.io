@@ -1,4 +1,6 @@
-### 
+## Welcome!
+
+My name is Ericka and I'm a statistics master's student in Oregon, USA.
 
 ### What I'm working on right now: 
 
