@@ -19,9 +19,10 @@ My name is Ericka and here's a taste of my background and experience working wit
 * An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
 
 ### Data Analyses
-* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
-* A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://erickabsmith.github.io/generalized_regression_models/)
 * Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://erickabsmith.github.io/erickabsmith-project-trail/)
+* A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://erickabsmith.github.io/generalized_regression_models/)
+* (in progress) Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
+
 
 
 <center>
