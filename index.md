@@ -2,9 +2,9 @@
 
 My name is Ericka and here's a taste of my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 
-<right>
+<center>
 <img src="./images/thumbnail.jpg" width="150" height="195">
-</right>
+</center>
 
 ## What I'm working on right now: 
 
