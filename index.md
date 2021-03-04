@@ -6,7 +6,7 @@ My name is Ericka and here's a bit of my background and experience working with 
 <img src="./images/thumbnail.jpg" width="150" height="195">
 </center>
 
-<a href="./files/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a>
+<a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a>
 
 ## What I'm working on right now: 
 
