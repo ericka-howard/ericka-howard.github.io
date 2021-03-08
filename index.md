@@ -4,9 +4,9 @@ My name is Ericka and here's a bit of my background and experience working with 
 
 <center>
 <img src="./images/thumbnail.jpg" width="150" height="195">
-</center>
 
 <a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a>
+</center>
 
 ## What I'm working on right now: 
 
