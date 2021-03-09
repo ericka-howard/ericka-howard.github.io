@@ -2,7 +2,7 @@
 
 My name is Ericka and here's a bit of my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
-<div style="text-align: center"><a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a>/div>
+<div style="text-align: center"><a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a></div>
 
 ## What I'm working on right now: 
 
