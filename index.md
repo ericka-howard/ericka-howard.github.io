@@ -1,14 +1,14 @@
 # Welcome!
 
-My name is Ericka and here's a bit of my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
+My name is Ericka and I'm a data scientist. I'm really excited about data literacy, and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
 <div style="text-align: center"><a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a></div>
 
 ## What I'm working on right now: 
 
-* Looking for data science opportunities
-* Finishing my master's project: Local Climate Zone Classification Using Random Forests. [[Project Site]](https://erickabsmith.github.io/masters-project-lcz-classification/) 
-* Teaching statistical concepts and R labs to undergraduate and graduate students. 
+* I'll be presenting at [Cascadia R Conf 2021](https://cascadiarconf.com/) this year! Come see my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.*
+* I've just graduated from the Oregon State University Statistics Graduate Program and started a new job as an Associate Data Scientist with The Hartford. We're doing a lot of really interesting work applying different machine learning algorithms!
+* Trying to get myself to actually use Twitter. :) 
 
 ## Some of my past projects:
 
@@ -17,6 +17,7 @@ My name is Ericka and here's a bit of my background and experience working with 
 * An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
 
 ### Data Analyses
+* Local Climate Zone Classification Using Random Forests. [[Project Site]](https://erickabsmith.github.io/masters-project-lcz-classification/) (My master's project!)
 * Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://erickabsmith.github.io/erickabsmith-project-trail/)
 * A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://erickabsmith.github.io/generalized_regression_models/)
 * (in progress) Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
@@ -29,6 +30,4 @@ My name is Ericka and here's a bit of my background and experience working with 
 
 ## My story:
 
-Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. Afterwards I traveled and worked as a field biologist. It was enjoyable, and I learned a lot about how data is collected and how statistical analysis results are used, but I was truly missing the computational analyses I got to do as an undergraduate student! I love digging around in data and seeing what I can learn.
-
-I started in the statistics master's program at OSU in Fall 2019. It's been incredible to be back to coding and modeling and using my skills to answer find patterns in data and answer questions. Looking forward to a return into industry! Please don't hesitate to [contact me to connect.](mailto:smith.ericka.b@gmail.com)
+Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Corvallis, Oregon and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:smith.ericka.b@gmail.com)
