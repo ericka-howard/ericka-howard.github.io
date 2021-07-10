@@ -1,14 +1,14 @@
 # Welcome!
 
-My name is Ericka and I'm a data scientist. I'm really excited about data literacy, and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
+My name is Ericka. I'm really excited about data literacy, and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
 <div style="text-align: center"><a href="./downloads/resume.pdf" download="Smith_Ericka_B_resume.pdf">Download My Resume</a></div>
 
 ## What I'm working on right now: 
 
-* I'll be presenting at [Cascadia R Conf 2021](https://cascadiarconf.com/) this year! Come see my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.*
+* I just presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* once it's on YouTube.
 * I've just graduated from the Oregon State University Statistics Graduate Program and started a new job as an Associate Data Scientist with The Hartford. We're doing a lot of really interesting work applying different machine learning algorithms!
-* Trying to get myself to actually use Twitter. :) 
+* Getting into Kaggle Competitions
 
 ## Some of my past projects:
 
