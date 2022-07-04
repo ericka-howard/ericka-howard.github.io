@@ -6,8 +6,7 @@ My name is Ericka. I'm really excited about data literacy, and data accessibilit
 
 ## What I'm working on right now: 
 
-* I just presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* once it's on YouTube.
-* I've just graduated from the Oregon State University Statistics Graduate Program and started a new job as an Associate Data Scientist with The Hartford. We're doing a lot of really interesting work applying different machine learning algorithms!
+* I've just been promoted to Data Scientist with The Hartford. We're doing a lot of really interesting work applying different machine learning algorithms!
 * Getting into Kaggle Competitions
 
 ## Some of my past projects:
@@ -15,13 +14,13 @@ My name is Ericka. I'm really excited about data literacy, and data accessibilit
 ### Shiny apps
 * Interactive and Explorative Web-Based Tool for Communication of Large Ensemble Models and Climate Reanalysis Datasets. **We won 2nd Place (Honorable Mention) in this nationwide American Statistical Association contest!** [[shinyapps.io]](https://jimmylovestea.shinyapps.io/datadash/) (Note: This link is SLOW due to the high volume of data.)
 * An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
+* I presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* once it's on YouTube.
 
 ### Data Analyses
 * Local Climate Zone Classification Using Random Forests. [[Project Site]](https://erickabsmith.github.io/masters-project-lcz-classification/) (My master's project!)
 * Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://erickabsmith.github.io/erickabsmith-project-trail/)
 * A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://erickabsmith.github.io/generalized_regression_models/)
-* (in progress) Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
-
+* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
 
 
 <center>
