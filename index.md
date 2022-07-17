@@ -2,7 +2,7 @@
 
 My name is Ericka. I'm really excited about data literacy, and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
-<div style="text-align: center"><a href="./downloads/resume.pdf.pdf" download="Smith_Ericka_resume.pdf">Download My Resume</a></div>
+<div style="text-align: center"><a href="./downloads/resume.pdf.pdf" download="Ericka_Smith_Howard_Resume.pdf">Download My Resume</a></div>
 
 ## What I'm working on right now: 
 
