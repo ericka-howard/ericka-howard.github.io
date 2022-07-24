@@ -1,13 +1,13 @@
 # Welcome!
 
-My name is Ericka. I'm really excited about data literacy, and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickabsmith/), or just reach out at <smith.ericka.b@gmail.com>**
+My name is Ericka. I'm really excited about data literacy and data accessibility. Here you'll find a bit about my background and experience working with data. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickasmithhoward/), or just reach out at <ericka.smith.howard@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
-<div style="text-align: center"><a href="./downloads/resume.pdf.pdf" download="Ericka_Smith_Howard_Resume.pdf">Download My Resume</a></div>
+<div style="text-align: center"><a href="./downloads/resume.pdf.pdf" download="Howard_Ericka_Resume.pdf">Download My Resume</a></div>
 
 ## What I'm working on right now: 
 
-* I've just been promoted to Data Scientist with The Hartford. We're doing a lot of really interesting work applying different machine learning algorithms!
-* Getting into Kaggle Competitions
+* I've just been promoted to Data Scientist with The Hartford. We're doing a lot of really interesting work applying machine learning algorithms to business problems! I really enjoy spending my days getting to solve problems and think outside the box.
+* Getting into Kaggle Competitions.
 
 ## Some of my past projects:
 
@@ -17,10 +17,10 @@ My name is Ericka. I'm really excited about data literacy, and data accessibilit
 * I presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* once it's on YouTube.
 
 ### Data Analyses
-* Local Climate Zone Classification Using Random Forests. [[Project Site]](https://erickabsmith.github.io/masters-project-lcz-classification/) (My master's project!)
-* Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://erickabsmith.github.io/erickabsmith-project-trail/)
-* A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://erickabsmith.github.io/generalized_regression_models/)
-* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/erickabsmith/flatfish_2020)
+* Local Climate Zone Classification Using Random Forests. [[Project Site]](https://ericka-howard.github.io/masters-project-lcz-classification/) (My master's project!)
+* Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://ericka-howard.github.io/erickahoward-project-trail/)
+* A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://ericka-howard.github.io/generalized_regression_models/)
+* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/ericka-howard/flatfish_2020)
 
 
 <center>
@@ -29,4 +29,4 @@ My name is Ericka. I'm really excited about data literacy, and data accessibilit
 
 ## My story:
 
-Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Corvallis, Oregon and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:smith.ericka.b@gmail.com)
+Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Oregon and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:ericka.smith.howard@gmail.com)
