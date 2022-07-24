@@ -20,7 +20,7 @@ My name is Ericka. I'm really excited about data literacy and data accessibility
 * Local Climate Zone Classification Using Random Forests. [[Project Site]](https://ericka-howard.github.io/masters-project-lcz-classification/) (My master's project!)
 * Bootstrapping the Pacific Crest Trail in Parallel. [[Project Site]](https://ericka-howard.github.io/erickahoward-project-trail/)
 * A comparison of negative binomial, quasi-Poisson, and Poisson regression of COVID-19 cases. [[Project Site]](https://ericka-howard.github.io/generalized_regression_models/)
-* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/ericka-howard/flatfish_2020)
+* Exploratory Data Analysis and Visualization of Scientific Survey Data. [[GitHub]](https://github.com/ericka-howard/flatfish_2020) [[Resulting Scientific Paper]](https://doi.org/10.3354/meps13977)
 
 
 <center>
