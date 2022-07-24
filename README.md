@@ -1,1 +1,1 @@
- # erickasmithhoward.github.io
+ # ericka-howard.github.io
