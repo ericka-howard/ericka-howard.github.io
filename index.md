@@ -14,7 +14,7 @@ My name is Ericka. I'm really excited about data literacy and data accessibility
 ### Shiny apps
 * Interactive and Explorative Web-Based Tool for Communication of Large Ensemble Models and Climate Reanalysis Datasets. **We won 2nd Place (Honorable Mention) in this nationwide American Statistical Association contest!** [[shinyapps.io]](https://jimmylovestea.shinyapps.io/datadash/) (Note: This link is SLOW due to the high volume of data.)
 * An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
-* I presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards* [[here.]](https://youtu.be/Ze1tobbwb9E)
+* I presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* [[YouTube]](https://youtu.be/Ze1tobbwb9E)
 
 ### Data Analyses
 * Local Climate Zone Classification Using Random Forests. [[Project Site]](https://ericka-howard.github.io/masters-project-lcz-classification/) (My master's project!)
