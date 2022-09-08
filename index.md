@@ -6,8 +6,8 @@ My name is Ericka. I'm really excited about data literacy and data accessibility
 
 ## What I'm working on right now: 
 
-* I've just been promoted to Data Scientist with The Hartford. We're doing a lot of really interesting work applying machine learning algorithms to business problems! I really enjoy spending my days getting to solve problems and think outside the box.
-* Getting into Kaggle Competitions.
+* I work as a Data Scientist with The Hartford. We're doing a lot of really interesting work applying machine learning algorithms to business problems. I really enjoy spending my days getting to solve problems and think outside the box.
+* Learning more about neural networks!
 
 ## Some of my past projects:
 
