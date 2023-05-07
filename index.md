@@ -4,12 +4,8 @@ My name is Ericka. I'm really excited about data literacy and data accessibility
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
 <div style="text-align: center"><a href="./downloads/Howard_Ericka_Resume.pdf" download="Howard_Ericka_Resume.pdf">Download My Resume</a></div>
 
-## What I'm working on right now: 
 
-* I work as a Data Scientist with The Hartford. We're doing a lot of really interesting work applying machine learning algorithms to business problems. I really enjoy spending my days getting to solve problems and think outside the box.
-* Learning more about neural networks!
-
-## Some of my past projects:
+## Some of my projects:
 
 ### Shiny apps
 * Interactive and Explorative Web-Based Tool for Communication of Large Ensemble Models and Climate Reanalysis Datasets. **We won 2nd Place (Honorable Mention) in this nationwide American Statistical Association contest!** [[shinyapps.io]](https://jimmylovestea.shinyapps.io/datadash/) (Note: This link is SLOW due to the high volume of data.)
