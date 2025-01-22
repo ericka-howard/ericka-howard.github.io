@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Ericka. I'm a data scientist looking to share some of my excitement for data exploration and analysis. I have extensive experience with insurance, sales, and environmental data. Here you'll find a bit about my background and experience in data science. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickasmithhoward/), or just reach out at <ericka.smith.howard@gmail.com>**
+My name is Ericka. I'm a data scientist looking to share some of my excitement for data exploration and analysis. I have extensive experience with insurance, sales, and environmental data. Here you'll find a bit about my background. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickasmithhoward/), or just reach out at <ericka.smith.howard@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
 <div style="text-align: center"><a href="./downloads/Howard_Ericka_Resume.pdf" download="Howard_Ericka_Resume.pdf">Download My Resume</a></div>
 
@@ -25,4 +25,4 @@ My name is Ericka. I'm a data scientist looking to share some of my excitement f
 
 ## My story:
 
-Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Oregon and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:ericka.smith.howard@gmail.com)
+Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Seattle and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:ericka.smith.howard@gmail.com)
