@@ -8,8 +8,8 @@ My name is Ericka. I'm a data scientist looking to share some of my excitement f
 ## Some of my projects:
 
 ### Shiny apps
-* Interactive and Explorative Web-Based Tool for Communication of Large Ensemble Models and Climate Reanalysis Datasets. **We won 2nd Place (Honorable Mention) in this nationwide American Statistical Association contest!** [[shinyapps.io]](https://jimmylovestea.shinyapps.io/datadash/) (Note: This link is SLOW due to the high volume of data.)
-* An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow due to the size of the data)
+* Interactive and Explorative Web-Based Tool for Communication of Large Ensemble Models and Climate Reanalysis Datasets. **We won 2nd Place (Honorable Mention) in this nationwide American Statistical Association contest!** [[shinyapps.io]](https://jimmylovestea.shinyapps.io/datadash/) (Note: This link is SLOW due to the high volume of data relative to compute purchased.) [[GitHub]](https://github.com/OSUCliMates/CliMates)
+* An interactive shiny app for visualizing species distribution data. [[shinyapps.io]](https://erickabsmith.shinyapps.io/catch-data/) (Note: This link is also a little slow for the same reasons) 
 * I presented at [Cascadia R Conf 2021](https://cascadiarconf.com/)! Check out my talk on *Addressing Gaps in Data Accessibility with Shiny Dashboards.* [[YouTube]](https://youtu.be/Ze1tobbwb9E)
 
 ### Data Analyses
@@ -25,4 +25,4 @@ My name is Ericka. I'm a data scientist looking to share some of my excitement f
 
 ## My story:
 
-Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Seattle and working remotely as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:ericka.smith.howard@gmail.com)
+Originally from Washington State, I completed my undergraduate degree at Western Washington University in math/biology. I spent quite a few years afterwards in Natural Resources, before returning to school to earn my master's degree in statistics. Now I'm living in Seattle and working as a data scientist. I love hiking, backpacking, scuba diving, and hanging out with my cats. I'd love to chat about anything data, please don't hesitate to [contact me to connect.](mailto:ericka.smith.howard@gmail.com)
