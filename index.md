@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Ericka. I'm a data scientist looking to share some of my excitement for data exploration and analysis. I have extensive experience with insurance, sales, and environmental data. Here you'll find a bit about my background. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickasmithhoward/), or just reach out at <ericka.smith.howard@gmail.com>**
+My name is Ericka. I'm a data scientist and I've spent a lot of time working with all sorts of data. Here you'll find a bit about my background. **For more info you can check out my [LinkedIn](https://www.linkedin.com/in/erickasmithhoward/), or just reach out at <ericka.smith.howard@gmail.com>**
 <center><img src="./images/thumbnail.jpg" width="150" height="195"></center>
 <div style="text-align: center"><a href="./downloads/Howard_Ericka_Resume.pdf" download="Howard_Ericka_Resume.pdf">Download My Resume</a></div>
 
